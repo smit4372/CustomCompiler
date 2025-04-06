@@ -1,7 +1,7 @@
 # Custom Compiler Project
 
 ## Overview
-This repository documents a custom compiler project I developed as part of CSE 340 (Fall 2023). The project involved building a complete compiler for a simple programming language that generates an intermediate representation (IR) which is then executed by an interpreter.
+This repository documents a custom compiler project I developed as part of CSE 340 - Principles of Programming Class at ASU. The project involved building a complete compiler for a simple programming language that generates an intermediate representation (IR) which is then executed by an interpreter.
 
 ⚠️ **Note:** Due to academic integrity policies, the actual source code for this project cannot be shared publicly. However, this documentation provides comprehensive details about the project's architecture, implementation approach, and features. If you're interested in discussing this project in more depth, please feel free to contact me at smitdesai129@gmail.com.
 
